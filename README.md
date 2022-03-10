@@ -1,3 +1,3 @@
 # webradio
-- VLC required !
-- Just open a file and listen !
+- VLC required!
+- Just open a file and listen
