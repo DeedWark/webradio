@@ -1,3 +1,6 @@
-#EXTM3U
-#EXTINF:-1,Datawave FM
-https://stream.nightride.fm/datawave.m4a
+[playlist]
+numberofentries=1
+File1=https://stream.nightride.fm/datawave.m4a
+Title1=Datawave FM
+Length1=-1
+version=2
