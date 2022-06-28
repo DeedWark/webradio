@@ -1,3 +1,6 @@
-#EXTM3U
-#EXTINF:-1,EBSM FM
-https://stream.nightride.fm/ebsm.m4a
+[playlist]
+numberofentries=1
+File1=https://stream.nightride.fm/ebsm.m4a
+Title1=EBSM FM
+Length1=-1
+version=2
