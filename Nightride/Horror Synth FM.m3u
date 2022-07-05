@@ -1,6 +1,3 @@
-[playlist]
-numberofentries=1
-File1=https://stream.nightride.fm/horrorsynth.m4a
-Title1=Horrorsynth FM
-Length1=-1
-version=2
+#EXTM3U
+#EXTINF:-1,Horror Synth FM
+https://stream.nightride.fm/horrorsynth.m4a
